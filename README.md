@@ -15,7 +15,7 @@ It's pretty easy, just follow the instructions below:
 
 ```sudo git clone https://github.com/BlackCage/PersonalKit```
 
-``cd PersonalKit```
+```cd PersonalKit```
 
 ```python3 personalkit.py```
 
